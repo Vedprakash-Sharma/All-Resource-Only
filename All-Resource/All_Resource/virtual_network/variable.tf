@@ -1,0 +1,3 @@
+variable "vmsubnet01" {
+
+}
